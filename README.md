@@ -25,4 +25,6 @@ Este é um jogo interativo de adivinhação de números, onde o jogador deve des
 - `style.css`: Estilos para a interface do jogo.
 - `app.js`: Lógica do jogo e narração por voz.
 
+## Link do Projeto
+- https://adivinhe-o-numero-com-voz.vercel.app
 
